@@ -42,30 +42,37 @@
     <priority>1.0</priority>
   </url>
   
-  <!-- Trading Bot Pages - HIGH PRIORITY -->
+  <!-- Freelancer Pages - HIGH PRIORITY -->
   <url>
-    <loc>https://web4crypto.com/crypto-trading-bot</loc>
+    <loc>https://web4crypto.com/crypto-freelancer</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>https://web4crypto.com/trading-bot</loc>
+    <loc>https://web4crypto.com/blockchain-developer</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   
   <url>
-    <loc>https://web4crypto.com/best-crypto-bot-2025</loc>
+    <loc>https://web4crypto.com/best-crypto-freelancer-2025</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>https://web4crypto.com/automated-trading</loc>
+    <loc>https://web4crypto.com/hire-blockchain-developer</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://web4crypto.com/smart-contract-developer</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -101,25 +108,41 @@
     <priority>0.8</priority>
   </url>
   
-  <!-- DeFi Tools Page -->
+  <!-- DeFi Development Page -->
   <url>
-    <loc>https://web4crypto.com/defi-tools</loc>
+    <loc>https://web4crypto.com/defi-developer</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   
-  <!-- Bitcoin Trading Page -->
+  <!-- Bitcoin Developer Page -->
   <url>
-    <loc>https://web4crypto.com/bitcoin-trading-bot</loc>
+    <loc>https://web4crypto.com/bitcoin-developer</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   
-  <!-- Ethereum Trading Page -->
+  <!-- Ethereum Developer Page -->
   <url>
-    <loc>https://web4crypto.com/ethereum-trading-bot</loc>
+    <loc>https://web4crypto.com/ethereum-developer</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Web3 Developer Page -->
+  <url>
+    <loc>https://web4crypto.com/web3-developer</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- NFT Developer Page -->
+  <url>
+    <loc>https://web4crypto.com/nft-developer</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
