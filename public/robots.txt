@@ -1,0 +1,39 @@
+# robots.txt for web4crypto
+# Whitehat SEO - Allow all crawlers
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+
+# Specific bot instructions
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Sogou
+Allow: /
+
+# Sitemap location
+Sitemap: https://web4crypto.com/sitemap.xml
+Sitemap: https://web4crypto.com/sitemap-index.xml
+
+# Host preference (whitehat)
+Host: https://web4crypto.com
+
