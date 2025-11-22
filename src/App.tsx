@@ -38,7 +38,7 @@ function App() {
           </div>
           
           <p className="tagline" itemProp="description">
-            🚀 #1 Crypto Trading Bot 2025 | Best Cryptocurrency Automation Platform | Trusted by 10,000+ Traders
+            🚀 #1 Crypto Trading Bot 2025 | Best Cryptocurrency Automation Platform | Trusted by many Traders
           </p>
           <p className="sub-tagline">
             Bitcoin • Ethereum • Altcoins • DeFi • NFT • Web3 • Blockchain
@@ -157,7 +157,7 @@ function App() {
         <div className="container">
           <h2>🏆 #1 Cryptocurrency Trading Bot & Blockchain Platform 2025</h2>
           <p>
-            <strong>web4crypto</strong> is the <strong>#1 crypto trading bot 2025</strong> trusted by over 10,000 cryptocurrency traders worldwide. 
+            <strong>web4crypto</strong> is the <strong>#1 crypto trading bot 2025</strong> trusted by many cryptocurrency traders worldwide. 
             Our <strong>AI-powered automated trading bot</strong> supports <strong>Bitcoin (BTC)</strong>, <strong>Ethereum (ETH)</strong>, and 100+ altcoins across 
             <strong>Binance</strong>, <strong>Coinbase</strong>, <strong>Kraken</strong>, and major exchanges. Experience the best <strong>cryptocurrency automation</strong> 
             with advanced <strong>algorithmic trading</strong>, <strong>DeFi integration</strong>, and <strong>real-time crypto signals</strong>.
@@ -220,7 +220,7 @@ function App() {
 
       <footer className="footer" role="contentinfo">
         <div className="container">
-          <p>&copy; 2025 <strong>web4crypto</strong> - #1 Crypto Trading Bot & Cryptocurrency Automation Platform | Trusted by 10,000+ Traders</p>
+          <p>&copy; 2025 <strong>web4crypto</strong> - #1 Crypto Trading Bot & Cryptocurrency Automation Platform | Trusted by many Traders</p>
           <nav className="footer-links" aria-label="Footer navigation">
             <a href="#bitcoin-bot" title="Bitcoin Trading Bot">Bitcoin Bot</a>
             <a href="#ethereum-bot" title="Ethereum Trading Bot">Ethereum Bot</a>
