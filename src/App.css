@@ -97,9 +97,18 @@
   font-size: 1.8rem;
   font-weight: 600;
   color: #444;
-  margin: 2rem 0;
+  margin: 2rem 0 1rem;
   animation: fadeIn 1s ease-out 0.3s backwards;
   line-height: 1.4;
+}
+
+.sub-tagline {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #555;
+  margin: 1rem 0 2rem;
+  animation: fadeIn 1s ease-out 0.4s backwards;
+  letter-spacing: 1px;
 }
 
 .description {
@@ -242,6 +251,33 @@
   text-align: justify;
 }
 
+.keyword-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 2rem;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.badge {
+  background: linear-gradient(135deg, #FFD700, #FFA500);
+  color: #333;
+  padding: 0.6rem 1.2rem;
+  border-radius: 25px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  box-shadow: 0 2px 8px rgba(255, 215, 0, 0.3);
+  transition: all 0.3s ease;
+}
+
+.badge:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(255, 215, 0, 0.5);
+}
+
 /* FAQ Section (Whitehat - Schema markup) */
 .faq-section {
   background: white;
@@ -309,9 +345,23 @@
 
 .footer-keywords {
   font-size: 0.75rem;
-  color: #666;
+  color: #777;
   margin-top: 2rem;
+  line-height: 1.8;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer-seo {
+  font-size: 0.8rem;
+  color: #888;
+  margin-top: 1.5rem;
   line-height: 1.6;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  font-style: italic;
 }
 
 /* Animations */

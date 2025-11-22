@@ -5,27 +5,91 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   
-  <!-- Main Landing Page -->
+  <!-- Main Landing Page - HIGHEST PRIORITY -->
   <url>
     <loc>https://web4crypto.com/</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Crypto Keywords Pages -->
+  <url>
+    <loc>https://web4crypto.com/crypto</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
-  <!-- Crypto Trading Bot Page -->
+  <url>
+    <loc>https://web4crypto.com/cryptocurrency</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web4crypto.com/bitcoin</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web4crypto.com/ethereum</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Trading Bot Pages - HIGH PRIORITY -->
   <url>
     <loc>https://web4crypto.com/crypto-trading-bot</loc>
     <lastmod>2025-11-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web4crypto.com/trading-bot</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   
-  <!-- Token Website Builder Page -->
+  <url>
+    <loc>https://web4crypto.com/best-crypto-bot-2025</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web4crypto.com/automated-trading</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Token/Website Builder Pages -->
   <url>
     <loc>https://web4crypto.com/token-website-builder</loc>
     <lastmod>2025-11-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://web4crypto.com/cryptocurrency-website-builder</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://web4crypto.com/crypto-website-builder</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   

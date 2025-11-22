@@ -1,39 +1,71 @@
-# robots.txt for web4crypto
-# Whitehat SEO - Allow all crawlers
+# robots.txt for web4crypto - AGGRESSIVE SEO
+# Allow all crawlers - Maximum visibility
 
 User-agent: *
 Allow: /
 Disallow: /api/
 Disallow: /admin/
+Crawl-delay: 0
 
-# Specific bot instructions
+# Googlebot - Priority #1
 User-agent: Googlebot
 Allow: /
 Crawl-delay: 0
+Request-rate: 1/1
 
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+# Bingbot - Priority #2
 User-agent: Bingbot
 Allow: /
 Crawl-delay: 0
 
+User-agent: msnbot
+Allow: /
+
+# Yahoo
 User-agent: Slurp
 Allow: /
+Crawl-delay: 0
 
+# DuckDuckGo
 User-agent: DuckDuckBot
 Allow: /
+Crawl-delay: 0
 
+# Baidu (China)
 User-agent: Baiduspider
 Allow: /
+Crawl-delay: 0
 
+# Yandex (Russia)
 User-agent: YandexBot
 Allow: /
+Crawl-delay: 0
 
+# Other search engines
 User-agent: Sogou
 Allow: /
 
-# Sitemap location
+User-agent: Exabot
+Allow: /
+
+User-agent: facebot
+Allow: /
+
+User-agent: ia_archiver
+Allow: /
+
+# Sitemap locations
 Sitemap: https://web4crypto.com/sitemap.xml
 Sitemap: https://web4crypto.com/sitemap-index.xml
+Sitemap: https://web4crypto.com/sitemap-crypto.xml
+Sitemap: https://web4crypto.com/sitemap-pages.xml
 
-# Host preference (whitehat)
+# Host preference
 Host: https://web4crypto.com
 
