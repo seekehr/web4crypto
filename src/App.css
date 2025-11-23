@@ -154,6 +154,7 @@
   box-shadow: 0 8px 20px rgba(88, 101, 242, 0.3);
   border: none;
   cursor: pointer;
+  margin: 0.5rem;
 }
 
 .discord-button:hover {
@@ -164,6 +165,47 @@
 
 .discord-button:active {
   transform: translateY(-1px);
+}
+
+.portfolio-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.8rem;
+  background: linear-gradient(135deg, #FFD700, #FFA500);
+  color: #333;
+  padding: 1.2rem 2.5rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  border-radius: 50px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 8px 20px rgba(255, 215, 0, 0.3);
+  border: none;
+  cursor: pointer;
+  margin: 0.5rem;
+}
+
+.portfolio-button:hover {
+  background: linear-gradient(135deg, #FFA500, #FF8C00);
+  transform: translateY(-3px);
+  box-shadow: 0 12px 30px rgba(255, 215, 0, 0.4);
+  color: #000;
+}
+
+.portfolio-button:active {
+  transform: translateY(-1px);
+}
+
+.portfolio-link {
+  color: #5865F2;
+  text-decoration: underline;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.portfolio-link:hover {
+  color: #4752C4;
+  text-decoration: none;
 }
 
 .discord-icon {
@@ -447,13 +489,28 @@
     padding: 0 1rem;
   }
   
-  .discord-button {
+  .discord-button,
+  .portfolio-button {
     padding: 1rem 2rem;
     font-size: 1rem;
+    margin: 0.5rem 0;
+    display: block;
+    width: 100%;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
   }
   
-  .discord-button span {
+  .discord-button span,
+  .portfolio-button span {
     font-size: 0.9rem;
+  }
+  
+  .cta-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
   }
   
   .seo-grid {

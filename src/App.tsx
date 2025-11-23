@@ -27,6 +27,7 @@ function App() {
         <p>blockchain jobs crypto jobs cryptocurrency jobs bitcoin jobs ethereum jobs DeFi jobs NFT jobs web3 jobs freelance jobs remote jobs contract jobs full-time jobs part-time jobs project-based jobs hourly jobs fixed-price jobs crypto careers blockchain careers cryptocurrency careers developer jobs engineer jobs consultant jobs designer jobs marketer jobs writer jobs community manager jobs project manager jobs</p>
         <p>hire crypto developer hire blockchain developer hire smart contract developer hire DeFi developer hire web3 developer hire solidity developer hire NFT developer hire crypto designer hire blockchain consultant find crypto freelancer find blockchain expert find cryptocurrency developer find blockchain specialist freelance marketplace freelance platform gig economy remote work distributed team global talent cryptocurrency talent blockchain talent</p>
         <p>beginner friendly easy to use user friendly intuitive platform simple interface clean design modern design responsive design mobile friendly desktop compatible cross-platform web-based cloud-based secure platform trusted platform reliable platform reputable platform established platform proven platform tested platform verified platform certified platform licensed platform regulated platform compliant platform safe platform secure payments protected funds encrypted data privacy security transparency</p>
+        <p>Portfolio: <a href="https://seekehr.github.io">seekehr.github.io</a> | View Seeker's crypto development projects and web3 development work at seekehr.github.io | Seeker portfolio examples crypto freelancing web3 development crypto development blockchain projects smart contracts DeFi NFT token websites</p>
       </div>
 
       {/* Main Hero Section with Semantic HTML (Whitehat) */}
@@ -49,7 +50,8 @@ function App() {
             <h2 className="sr-only">Seeker - Crypto Development & Web3 Development Specialist</h2>
             <p>Professional <strong>crypto development</strong> and <strong>web3 development</strong> services. I'm <strong>Seeker</strong>, offering <strong>crypto freelancing</strong> through <strong>web4crypto</strong> for your blockchain projects.</p>
             <p className="keywords-paragraph">
-              Expert in crypto development, web3 development, blockchain freelancing, smart contracts, DeFi, and cryptocurrency solutions.
+              Expert in crypto development, web3 development, blockchain freelancing, smart contracts, DeFi, and cryptocurrency solutions. 
+              View my <a href="https://seekehr.github.io" target="_blank" rel="noopener noreferrer" className="portfolio-link">portfolio</a> to see my previous work.
             </p>
           </article>
           
@@ -69,6 +71,16 @@ function App() {
               </svg>
               <span>Join Our Discord - Let's Work Together</span>
             </a>
+            <a 
+              href="https://seekehr.github.io" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="portfolio-button"
+              aria-label="View Seeker's Portfolio - Crypto Development Projects"
+              title="View Portfolio - Seeker's Crypto Development Work"
+            >
+              <span>📁 View My Portfolio</span>
+            </a>
           </nav>
         </div>
       </header>
@@ -85,7 +97,7 @@ function App() {
           <div className="seo-grid">
             <article className="seo-card">
               <h3>👨‍💻 Expert Blockchain Developer</h3>
-              <p>Experienced in building blockchain solutions for Bitcoin, Ethereum, and other major chains. I specialize in smart contracts, DeFi protocols, and full-stack crypto development.</p>
+              <p>Experienced in building blockchain solutions for Bitcoin, Ethereum, and other major chains. I specialize in smart contracts, DeFi protocols, and full-stack crypto development. <a href="https://seekehr.github.io" target="_blank" rel="noopener noreferrer" className="portfolio-link">View my portfolio</a> to see examples of my work.</p>
               <ul>
                 <li>Bitcoin & Ethereum development</li>
                 <li>Smart contract development (Solidity)</li>
@@ -180,6 +192,7 @@ function App() {
             Whether you need <strong>crypto development</strong>, <strong>web3 development</strong>, or <strong>blockchain freelancing</strong>, 
             <strong>Seeker</strong> delivers professional <strong>cryptocurrency development services</strong> through <strong>web4crypto</strong>. 
             My <strong>crypto freelancing</strong> includes <strong>quality code</strong>, <strong>timely delivery</strong>, and <strong>dedicated support</strong>. 
+            Check out my <a href="https://seekehr.github.io" target="_blank" rel="noopener noreferrer" className="portfolio-link">portfolio at seekehr.github.io</a> to see my previous projects. 
             Join my <strong>Discord community</strong> to discuss <strong>crypto development</strong> needs, get <strong>free consultation</strong>, 
             and explore <strong>web3 development</strong> solutions. Start your <strong>crypto development</strong> journey today with 
             <strong>Seeker's web4crypto freelancing</strong> services!
@@ -232,7 +245,7 @@ function App() {
           <p>&copy; 2025 <strong>Seeker</strong> - Crypto Freelancing | Web3 Development | Crypto Development | Web4Crypto Freelancing Services</p>
           <nav className="footer-links" aria-label="Footer navigation">
             <a href="#services" title="Development Services">Services</a>
-            <a href="#portfolio" title="Portfolio & Projects">Portfolio</a>
+            <a href="https://seekehr.github.io" target="_blank" rel="noopener noreferrer" title="View Seeker's Portfolio">Portfolio</a>
             <a href="#smart-contracts" title="Smart Contract Development">Smart Contracts</a>
             <a href="#token-websites" title="Token Website Design">Token Websites</a>
             <a href="#contact" title="Contact Seeker">Contact</a>
@@ -250,7 +263,8 @@ function App() {
           <p className="footer-seo">
             <strong>I</strong> offers professional <strong>crypto freelancing</strong> and <strong>crypto development</strong> services through <strong>web4crypto</strong>. 
             Expert in <strong>web3 development</strong>, <strong>crypto development</strong>, <strong>blockchain freelancing</strong>, smart contract development, DeFi protocols, 
-            NFT platforms, and cryptocurrency websites. <strong>Seeker's web4crypto freelancing</strong> services are trusted by crypto projects for 
+            NFT platforms, and cryptocurrency websites. View my <a href="https://seekehr.github.io" target="_blank" rel="noopener noreferrer" className="portfolio-link">portfolio</a> to see examples of my work. 
+            <strong>Seeker's web4crypto freelancing</strong> services are trusted by crypto projects for 
             Bitcoin, Ethereum, and multi-chain blockchain solutions. Available for <strong>crypto development</strong> projects now!
           </p>
         </div>
