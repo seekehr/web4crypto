@@ -84,13 +84,21 @@
 }
 
 .brand-name {
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 900;
   color: #333;
   margin: 0;
-  text-transform: lowercase;
-  letter-spacing: -2px;
+  letter-spacing: -1px;
   text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.1);
+  line-height: 1.2;
+}
+
+.brand-subtitle {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #555;
+  margin: 0.5rem 0 0;
+  letter-spacing: 0.5px;
 }
 
 .tagline {
@@ -172,8 +180,18 @@
 .seo-content h2 {
   font-size: 2.5rem;
   color: #333;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
   text-align: center;
+}
+
+.intro-text {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  color: #555;
+  max-width: 900px;
+  margin: 0 auto 3rem;
+  text-align: center;
+  font-weight: 500;
 }
 
 .seo-grid {
@@ -408,7 +426,12 @@
 /* Responsive Design */
 @media (max-width: 768px) {
   .brand-name {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
+    letter-spacing: -0.5px;
+  }
+  
+  .brand-subtitle {
+    font-size: 1rem;
   }
   
   .logo-icon {

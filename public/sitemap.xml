@@ -8,38 +8,97 @@
   <!-- Main Landing Page - HIGHEST PRIORITY -->
   <url>
     <loc>https://web4crypto.com/</loc>
-    <lastmod>2025-11-22</lastmod>
+    <lastmod>2025-11-23</lastmod>
     <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Seeker - Primary Pages -->
+  <url>
+    <loc>https://web4crypto.com/seeker</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web4crypto.com/seeker-crypto-freelancer</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Crypto Freelancing Pages -->
+  <url>
+    <loc>https://web4crypto.com/crypto-freelancing</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web4crypto.com/crypto-freelancer</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Development Services Pages -->
+  <url>
+    <loc>https://web4crypto.com/crypto-development</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web4crypto.com/web3-development</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web4crypto.com/web4crypto-freelancing</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web4crypto.com/blockchain-freelancing</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <!-- Crypto Keywords Pages -->
   <url>
     <loc>https://web4crypto.com/crypto</loc>
-    <lastmod>2025-11-22</lastmod>
+    <lastmod>2025-11-23</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>0.9</priority>
   </url>
   
   <url>
     <loc>https://web4crypto.com/cryptocurrency</loc>
-    <lastmod>2025-11-22</lastmod>
+    <lastmod>2025-11-23</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>0.9</priority>
   </url>
   
   <url>
     <loc>https://web4crypto.com/bitcoin</loc>
-    <lastmod>2025-11-22</lastmod>
+    <lastmod>2025-11-23</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>0.9</priority>
   </url>
   
   <url>
     <loc>https://web4crypto.com/ethereum</loc>
-    <lastmod>2025-11-22</lastmod>
+    <lastmod>2025-11-23</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>0.9</priority>
   </url>
   
   <!-- Freelancer Pages - HIGH PRIORITY -->
